@@ -90,15 +90,6 @@ Welcome to the Health Assistant project! This is a Retrieval-Augmented Generatio
 5. **Transparency:**
    - The sources (Q&A or article titles/URLs) are shown for every answer.
 
----
-
-## 🏆 Hackathon Tips
-- **Speed:** Use test mode for quick demos; full mode for best results.
-- **Extensibility:** You can add more medical datasets by following the same ingestion pattern.
-- **Reliability:** All sources are from NIH/NLM or MedlinePlus (government-backed).
-- **Ethics:** This tool is for informational/educational use only. Not for medical diagnosis or emergency use.
-
----
 
 ## 🤖 Example Usage
 
